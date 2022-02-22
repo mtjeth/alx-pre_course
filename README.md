@@ -1,1 +1,2 @@
-My first readme
+HI My first readme 
+Learning in ALX
